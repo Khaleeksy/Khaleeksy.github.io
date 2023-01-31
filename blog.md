@@ -1,6 +1,6 @@
 ---
 layout: post-index
 title: All Blog Posts
-menutitle: Blog
+menutitle: Assignments
 menuorder: 4
 ---
