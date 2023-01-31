@@ -5,7 +5,8 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Trini living in the Middle East, I think that's my tag line. Using this as an opportunity to boast about myself and maybe simultaneously bore you with fun facts!
+I'm 19 years old and a big sister of four, I'm funny and [well...](https://www.youtube.com/watch?v=zA6LMc7OmsU)
 
 ## Current Interests and Projects:
 
