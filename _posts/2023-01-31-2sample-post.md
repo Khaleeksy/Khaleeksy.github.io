@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Assignment 3
-excerpt: "This is my submission for assignment 3"
+title: Assignment 4
+excerpt: "This is my submission for assignment 4"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
 
-# IM-1511- How are notions of space limited/determined by geospatial technology? 
+# IM-1511- How does the digital offer new perspectives on the visual or material form from analytical and generative perspectives? 
 
 ## Table of Contents
 This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
