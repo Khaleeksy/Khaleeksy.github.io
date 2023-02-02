@@ -2,18 +2,18 @@
 
 title: Khaleeksy
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: logo.png
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Khaleeqa Aasiyah Garrett
   avatar: bio-photo.jpg
   bio: "I want to give CLB energy drake energy but instead I give Take Care energy drake energy"
-  email: #kag9691@nyu.edu
+  email: kag9691@nyu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #Khaleeksy
+  github: Khaleeksy
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #therealkhaleeqa
+  instagram: therealkhaleeqa
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
