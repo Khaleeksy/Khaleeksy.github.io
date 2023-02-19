@@ -1,9 +1,11 @@
 ---
-title: "Digital Literacy Narrative Assignment"
-layout: textlay
+layout: post
+title: DLN Assignment
 excerpt: "Digital Literacy Narrative Assignment"
-sitemap: false
-permalink: /dln-assignment/
+modified: 2/29/2016, 9:00:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
 ---
 
 # Digital Literacy Narative
