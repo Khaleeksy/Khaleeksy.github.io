@@ -2,7 +2,7 @@
 layout: post
 title: DLN Assignment
 excerpt: "Digital Literacy Narrative Assignment"
-modified: 2/29/2016, 9:00:24
+modified: 02/19/2023, 1:00:40
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
