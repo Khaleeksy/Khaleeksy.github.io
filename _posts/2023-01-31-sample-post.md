@@ -22,18 +22,18 @@ The Expedition to Beth Shean (Beisan) led by Clarence Fisher between 1921 and 19
 ### Ivory Inlay
 The dirty appearance of the [first ivory piece](https://www.penn.museum/collections/object/260604) found at the Expedition to Beth Shean (Beisan) is a testament to the passage of time and the importance of preservation efforts to maintain the integrity of historical artifacts. Despite its worn and aged appearance, the piece still offers a deep artistic insight into the intricacies of the Late Bronze Age in the region. The fact that it is pierced at each end and measures 4.2 cm in length with a width of 0.78 cm, suggests that it was meant to be used as an inlay, possibly for a larger decorative object or piece of furniture. The worn and aged appearance of the ivory offers a glimpse into the decorative arts of the time and the ways in which artisans utilized different materials to create intricate designs. This adds to its charm and historical significance, as it provides a tangible connection to the past and a sense of the passage of time. 
 
-![First Piece of Ivory Pierced at Each End]()
+![First Piece of Ivory Pierced at Each End](/images/ivory1.jpg "Ivory Inlay")
 
 ### Ivory Fragment 
 The [second piece](https://www.penn.museum/collections/object_images.php?irn=63773) of ivory which is a fragment of a six-sided piece of ivory found at the same Expedition to Beth Shean (Beisan) is another intriguing artifact that upholds similar insight into the Late Bronze Age as the first bit of ivory. The shape of the ivory fragment, which resembles a piece of cheese, is somewhat unusual, and adds to the object's overall intrigue. Each side of the ivory features three holes, indicating that it may have also been part of a larger decorative item, this time, instead of an inlay, it seemed to have formed a box of some sort. The level of detail and precision in the carving of the object is particularly noteworthy, with intricate geometric designs expertly carved into the ivory. The unusual shape of the object may have been intended to make it stand out and attract attention, perhaps as a decorative element in a public space or as a status symbol. The provenience of the object in Beth Shean (Beisan) is significant, as it provides evidence of the city's involvement in international trade networks and cultural exchange during the Late Bronze Age. The object's unique shape and design offer insight into the artistic and creative practices of the time, highlighting the ingenuity and skill of the artisans who created it.
 
-![Fragment of a Six Sided Piece of Ivory](/images/ivory2.jpg "Ivory Inlay")
+![Fragment of a Six Sided Piece of Ivory](/images/ivory2.jpg "Ivory Fragment")
 
 ## Metadata Wars! Inlay vs Fragment! Who wins??
 This table aims to compare and contrast the metadata provided for the two pieces of Ivory by the DLME
 
 |Metadata| Inlay| Fragment|
-|-------|------|----------|
+|:-------|:------:|:----------:|
 |Title|Ivory|Ivory|
 |Date|1470-1300 BC|1470-1300 BC|
 |Description|Pierced at each end. Perhaps inlay.|Fragment of six sided object, each side having three holes.|
