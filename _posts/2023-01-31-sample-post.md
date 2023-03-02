@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment 1
-excerpt: "This is my submission for assignment 1"
+excerpt: "The Comparison of Ivory from the Digital Library of the Middle East"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
@@ -12,6 +12,8 @@ category: blog
 
 ## Table of Contents
 This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+
+<img src="bio-photo.jpg" alt="Melol" width="500" height="333">
 
 ## Introduction
 A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
