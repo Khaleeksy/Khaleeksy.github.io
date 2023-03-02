@@ -30,7 +30,25 @@ The [second piece](https://www.penn.museum/collections/object_images.php?irn=637
 ![Fragment of a Six Sided Piece of Ivory](/images/ivory2.jpg "Ivory Inlay")
 
 ## Metadata Wars! Inlay vs Fragment! Who wins??
-This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
+This table aims to compare and contrast the metadata provided for the two pieces of Ivory by the DLME
+
+|Metadata| Inlay| Fragment|
+|-------|------|----------|
+|Title|Ivory|Ivory|
+|Date|1470-1300 BC|1470-1300 BC|
+|Description|Pierced at each end. Perhaps inlay.|Fragment of six sided object, each side having three holes.|
+|Type|Ivory|Ivory|
+|Type (Narrower)|Other Objects|Other Objects|
+|Type (Broader)|Object|Object|
+|Geographical Region|Beth Shean, Israel|Beth Shean, Israel|
+|Time Period|Late Bronze IB, Late bronze IIA|Late Bronze IB, Late bronze IIA|
+|Provenance|Expedition to Beth Shean (Beisan); Clarence Fisher, 1921-1928|Expedition to Beth Shean (Beisan); Clarence Fisher, 1921-1928|
+|Medium|Ivory|Ivory|
+|Extent|4.2 cm, 0.78 cm | 4.25 cm, 1.9 cm|
+|Holding institution|Penn Museum|Penn Museum|
+|Data provider|Penn Museum| Penn Museum|
+|Identifier| 260604|63773|
+|Source| 29-105-402, 28-10-476| 29-105-278, 28-11-325|
 
 ## Is the Metadata Complete? 
 The metadata shown above is quite complete, as it includes information such as the title, date, description, type, geographic region, time period, provenance, medium, extent, holding institution, and data provider. Both pieces of ivory come from the Penn Museum, which means that they were likely catalogued by the same institution and have consistent metadata.
