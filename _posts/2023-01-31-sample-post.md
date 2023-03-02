@@ -38,6 +38,9 @@ Outside of this assginment I don't think Ivory needs to be discovered at all. Th
 To make the items more discoverable, additional metadata categories could be:
 
 **Object category:** to classify the objects as artifacts.
+
 **Technique:** to describe the methods used to create the objects
+
 **Keyword tags:** to provide more specific terms related to the objects' features, such as "six-sided object" or "pierced at each side"
+
 **Archaeological context:** information on where and how the objects were found within the excavation site, as well as any associated artifacts or features
