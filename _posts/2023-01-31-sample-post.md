@@ -33,7 +33,7 @@ The [second piece](https://www.penn.museum/collections/object_images.php?irn=637
 This table aims to compare and contrast the metadata provided for the two pieces of Ivory by the DLME
 
 |Metadata| Inlay| Fragment|
-|:-------|:------:|:----------:|
+|:-------|:------|:----------|
 |Title|Ivory|Ivory|
 |Date|1470-1300 BC|1470-1300 BC|
 |Description|Pierced at each end. Perhaps inlay.|Fragment of six sided object, each side having three holes.|
