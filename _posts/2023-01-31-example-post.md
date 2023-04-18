@@ -30,7 +30,7 @@ However, upon using the bubble lines feature in Voyant Tools, I discovered that,
 ![Highest Word Frequency-"Said"](/images/woholmes.jpg "Removing Holmes from Word Frequency")
 
 In order to investigate this further, I completely removed "The Adventures of Sherlock Holmes," and, thankfully, the results were as I had anticipated: an even distribution of the most frequently used words across the corpus. This one adventure book contained Sherlock Holmes so frequently that it spoke for the entire set of data. By eliminating this book, the analysis's accuracy levels unquestionably rose because it now represented a truer interpretation of the corpus and wasn't tainted by a single, heavily populated piece of data. This demonstrated to me the fluidity of information and the simplicity with which textual information can be shaped to suit your interests and research. This may not have been a significant change, but it demonstrated how one small sub corpora can have a significant impact on an entire corpus. The frequency of Holmes in this one adventure book was so overwhelming, that it spoke for the entire data set.
-Insert pic of this
+
 
 ![Removing "The Adventures of Sherlock Holmes"](/images/afterrem.jpg "Even distribution of the data in the corpus")
 
