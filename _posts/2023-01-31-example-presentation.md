@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
+title: Final "Un"project
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: serif
 transition: convex
