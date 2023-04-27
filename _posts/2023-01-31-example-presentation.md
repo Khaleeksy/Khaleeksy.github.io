@@ -11,6 +11,7 @@ category: presentation
   <textarea data-template>
     ## Introduction to Digital Arts and Humanities Final Unproject
     ---
+    </section>
     <section data-transition="slide-in fade-out">
     ## Welcome to my Unproject
     This "un"project would cover, I'm not sure yet.
