@@ -14,9 +14,6 @@ category: presentation
     ## Welcome to my Unproject
     This "un"project would cover, I'm not sure yet.
     ---
-     </section>
-    <section>
-    <section>
       ## Scope
        By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
     </section>
