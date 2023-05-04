@@ -11,14 +11,14 @@ category: presentation
   <textarea data-template>
     ## Introduction to Digital Arts and Humanities Final Unproject
     ---
-    </section>
-    <section data-transition="slide-in fade-out">
+    <section>  
     ## Welcome to my Unproject
     This "un"project would cover, I'm not sure yet.
-    ---
+    1</section>
+    <section>
     ## **Scope**
     By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
-    ---
+    1</section>
     ## **Data**
     Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
     For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
