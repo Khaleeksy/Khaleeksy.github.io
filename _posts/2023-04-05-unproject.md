@@ -10,10 +10,10 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
      ## Introduction to Digital Arts and Humanities Final Unproject
-     </section>
-     <section>
+     ---
     ## Welcome to my Unproject
     This "un"project would cover, I'm not sure yet.
+    ---
      </section>
     <section>
     <section>
