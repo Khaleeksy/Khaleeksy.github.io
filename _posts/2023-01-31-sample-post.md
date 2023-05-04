@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment 1
+title: Digital Library of the Middle East
 excerpt: "The Comparison of Ivory from the Digital Library of the Middle East"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]

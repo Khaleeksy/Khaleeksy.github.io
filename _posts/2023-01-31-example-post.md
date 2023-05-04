@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment 2
+title: Corpus Assignment
 excerpt: "Exploring Sir Arthur Conan Doyle Corpus"
 modified: 04/18/2023, 11:59:24
 tags: [intro, beginner, jekyll, tutorial]
