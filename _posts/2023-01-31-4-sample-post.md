@@ -20,7 +20,7 @@ For historians and researchers who want to use maps to explore the history of Pa
 
 ![Palestinian Open Maps 3D](/images/palestine.jpg "3D Image of Vectorized Map")
 
-![Original Maps before conversion](/images/originalmap.jpg "Dropboc of original maps before conversion")
+![Original Maps before conversion](/images/originalmap.jpg "Dropbox of original maps before conversion")
 
 The method used to extract geographic information from old maps raised significant issues regarding data ownership and the creation of public knowledge. Majd Al-Shihabi, a technologist and urban planner who organized the mapathon, gave us the opportunity to challenge established notions of data ownership and develop a more open and democratic system of knowledge production by allowing us to jointly produce and share geographic data. Additionally, this workshop equips participants with the know-how and abilities to keep supporting the ongoing mapping of Palestine and the use of geographic information to investigate its history and culture.
 
